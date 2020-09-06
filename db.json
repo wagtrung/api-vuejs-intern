@@ -1,0 +1,99 @@
+{
+    "product": [
+        {
+            "id": 0,
+            "title": "Gothic Video game",
+            "subtitle": "Awesome game",
+            "price": 4000500,
+            "srcimg": "./img/img1.png",
+            "tags": [
+                "Logo",
+                "FE Coding"
+            ]
+        },
+        {
+            "id": 1,
+            "title": "World of warcraft Video Game",
+            "subtitle": "Also better than Vannila",
+            "price": 6000500,
+            "srcimg": "./img/img2.png",
+            "tags": [
+                "Logo",
+                "Vue JS",
+                "WagTrung"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Call of Duty Video Game",
+            "subtitle": "it is Okay, i guess",
+            "price": 800500,
+            "srcimg": "./img/img3.png",
+            "tags": [
+                "UI/UX"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Legends of League",
+            "subtitle": "The best Video game ever",
+            "price": 7000010,
+            "srcimg": "./img/img4.png",
+            "tags": [
+                "Logo",
+                "WagTrung"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Dark Soul",
+            "subtitle": "it is Okay, i guess",
+            "price": 201020,
+            "srcimg": "./img/img5.png",
+            "tags": [
+                "FE Coding"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Maria Soul ",
+            "subtitle": "it is Okay, i guess",
+            "price": 9110211,
+            "srcimg": "./img/img6.png",
+            "tags": [
+                "UI/UX",
+                "WagTrung",
+                "ReactJS"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Graji on the mic",
+            "subtitle": "The best Video game ever",
+            "price": 0,
+            "srcimg": "./img/img4.png",
+            "tags": [
+                "UI/UX"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "quenty mali onru ",
+            "subtitle": "it is Okay, i guess",
+            "price": 3234420,
+            "srcimg": "./img/img5.png",
+            "tags": []
+        },
+        {
+            "id": 9,
+            "title": "Andy shop ",
+            "subtitle": "it is Okay, i guess",
+            "price": 930211,
+            "srcimg": "./img/img6.png",
+            "tags": [
+                "UI/UX",
+                "ReactJS"
+            ]
+        }
+    ]
+}
