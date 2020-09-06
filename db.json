@@ -2,8 +2,8 @@
     "product": [
         {
             "id": 0,
-            "title": "Gothic Video game",
-            "subtitle": "Awesome game",
+            "title": "Awakened Brand",
+            "subtitle": "velit laoreet id donec ultrices tincidunt arcu non sodales neque sodales ut etiam sit amet nisl purus in mollis nunc",
             "price": 4000500,
             "srcimg": "./img/img1.png",
             "tags": [
@@ -13,8 +13,8 @@
         },
         {
             "id": 1,
-            "title": "World of warcraft Video Game",
-            "subtitle": "Also better than Vannila",
+            "title": "Plugd Brand Package",
+            "subtitle": "tempor nec feugiat nisl pretium fusce id velit ut tortor pretium viverra suspendisse potenti nullam ac tortor vitae purus faucibus",
             "price": 6000500,
             "srcimg": "./img/img2.png",
             "tags": [
@@ -25,8 +25,8 @@
         },
         {
             "id": 2,
-            "title": "Call of Duty Video Game",
-            "subtitle": "it is Okay, i guess",
+            "title": "Mobile Trends responsive",
+            "subtitle": "elementum nibh tellus molestie nunc non blandit massa enim nec dui nunc mattis enim ut tellus elementum sagittis vitae et",
             "price": 800500,
             "srcimg": "./img/img3.png",
             "tags": [
@@ -35,9 +35,9 @@
         },
         {
             "id": 4,
-            "title": "Legends of League",
-            "subtitle": "The best Video game ever",
-            "price": 7000010,
+            "title": "Brand Logo City Sanctuary Church",
+            "subtitle": "dui nunc mattis enim ut tellus elementum sagittis vitae et leo duis ut diam quam nulla porttitor massa id neque",
+            "price": 500010,
             "srcimg": "./img/img4.png",
             "tags": [
                 "Logo",
@@ -47,7 +47,7 @@
         {
             "id": 5,
             "title": "Dark Soul",
-            "subtitle": "it is Okay, i guess",
+            "subtitle": "dui nunc mattis enim ut tellus elementum sagittis vitae et leo duis ut diam quam nulla porttitor massa id neque",
             "price": 201020,
             "srcimg": "./img/img5.png",
             "tags": [
@@ -57,7 +57,7 @@
         {
             "id": 6,
             "title": "Maria Soul ",
-            "subtitle": "it is Okay, i guess",
+            "subtitle": "dui nunc mattis enim ut tellus elementum sagittis vitae et leo duis ut diam quam nulla porttitor massa id neque",
             "price": 9110211,
             "srcimg": "./img/img6.png",
             "tags": [
@@ -69,7 +69,7 @@
         {
             "id": 7,
             "title": "Graji on the mic",
-            "subtitle": "The best Video game ever",
+            "subtitle": "vitae turpis massa sed elementum tempus egestas sed sed risus pretium quam vulputate dignissim suspendisse in est ante in nibh",
             "price": 0,
             "srcimg": "./img/img4.png",
             "tags": [
@@ -79,7 +79,7 @@
         {
             "id": 8,
             "title": "quenty mali onru ",
-            "subtitle": "it is Okay, i guess",
+            "subtitle": "adipiscing bibendum est ultricies integer quis auctor elit sed vulputate mi sit amet mauris commodo quis imperdiet massa tincidunt nunc",
             "price": 3234420,
             "srcimg": "./img/img5.png",
             "tags": []
@@ -87,7 +87,7 @@
         {
             "id": 9,
             "title": "Andy shop ",
-            "subtitle": "it is Okay, i guess",
+            "subtitle": "dui nunc mattis enim ut tellus elementum sagittis vitae et leo duis ut diam quam nulla porttitor massa id neque",
             "price": 930211,
             "srcimg": "./img/img6.png",
             "tags": [
